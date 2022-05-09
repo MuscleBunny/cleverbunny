@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.c1ea6885.js",
-    "static/js/937.4c2b7811.chunk.js": "/static/js/937.4c2b7811.chunk.js",
-    "static/media/deloitte.jpg": "/static/media/deloitte.04afb5b7f0e506690b41.jpg",
-    "static/media/momnt.jpg": "/static/media/momnt.6640126e981ba36d6859.jpg",
-    "static/media/invisionapp.jpg": "/static/media/invisionapp.47b77730854614a48708.jpg",
-    "static/media/collabera.jpg": "/static/media/collabera.72cab7ce8f7574bab8c2.jpg",
-    "static/media/memorial.jpg": "/static/media/memorial.492c657e7fd84c44a0dc.jpg",
-    "static/media/avatar.jpg": "/static/media/avatar.1bce1a3a5fe12f16d606.jpg",
-    "static/media/chatify.jpg": "/static/media/chatify.cba3b1232b444cd4e00a.jpg",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.c1ea6885.js.map": "/static/js/main.c1ea6885.js.map",
-    "937.4c2b7811.chunk.js.map": "/static/js/937.4c2b7811.chunk.js.map"
+    "main.css": "/cleverbunny/static/css/main.e6c13ad2.css",
+    "main.js": "/cleverbunny/static/js/main.b7f1ad49.js",
+    "static/js/937.4c2b7811.chunk.js": "/cleverbunny/static/js/937.4c2b7811.chunk.js",
+    "static/media/deloitte.jpg": "/cleverbunny/static/media/deloitte.04afb5b7f0e506690b41.jpg",
+    "static/media/momnt.jpg": "/cleverbunny/static/media/momnt.6640126e981ba36d6859.jpg",
+    "static/media/invisionapp.jpg": "/cleverbunny/static/media/invisionapp.47b77730854614a48708.jpg",
+    "static/media/collabera.jpg": "/cleverbunny/static/media/collabera.72cab7ce8f7574bab8c2.jpg",
+    "static/media/memorial.jpg": "/cleverbunny/static/media/memorial.492c657e7fd84c44a0dc.jpg",
+    "static/media/avatar.jpg": "/cleverbunny/static/media/avatar.1bce1a3a5fe12f16d606.jpg",
+    "static/media/chatify.jpg": "/cleverbunny/static/media/chatify.cba3b1232b444cd4e00a.jpg",
+    "index.html": "/cleverbunny/index.html",
+    "main.e6c13ad2.css.map": "/cleverbunny/static/css/main.e6c13ad2.css.map",
+    "main.b7f1ad49.js.map": "/cleverbunny/static/js/main.b7f1ad49.js.map",
+    "937.4c2b7811.chunk.js.map": "/cleverbunny/static/js/937.4c2b7811.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c1ea6885.js"
+    "static/js/main.b7f1ad49.js"
   ]
 }
